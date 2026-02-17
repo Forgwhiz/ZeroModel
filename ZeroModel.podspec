@@ -12,15 +12,15 @@ Pod::Spec.new do |spec|
     Write zero models. Get everything.
   DESC
 
-  spec.homepage     = "https://github.com/YOUR_USERNAME/ZeroModel"
+  spec.homepage     = "https://github.com/Forgwhiz/ZeroModel"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
-  spec.author       = { "Your Name" => "your@email.com" }
+  spec.author       = { "Your Name" => "Forgwhiz" }
 
   spec.ios.deployment_target = "13.0"
   spec.swift_versions        = "5.5"
 
   spec.source = {
-    :git => "https://github.com/YOUR_USERNAME/ZeroModel.git",
+    :git => "https://github.com/Forgwhiz/ZeroModel.git",
     :tag => spec.version.to_s
   }
 
