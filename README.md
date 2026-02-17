@@ -69,7 +69,7 @@ pod 'ZeroModel', '~> 1.0'
 
 ### Swift Package Manager
 ```swift
-.package(url: "https://github.com/YOUR_USERNAME/ZeroModel.git", from: "1.0.0")
+.package(url: "https://github.com/Forgwhiz/ZeroModel.git", from: "1.0.0")
 ```
 
 ---
